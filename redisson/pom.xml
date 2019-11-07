@@ -253,7 +253,7 @@
         <dependency>
             <groupId>org.jodd</groupId>
             <artifactId>jodd-bean</artifactId>
-            <version>5.0.10</version>
+            <version>5.1.0-20190624</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
